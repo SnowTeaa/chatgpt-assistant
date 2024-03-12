@@ -1,0 +1,7 @@
+server:
+  port: 8888
+
+chatbot-api:
+  groupId: 51281252152824
+  cookie:
+  openAikey:

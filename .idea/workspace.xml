@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c750adf-4b93-4ffc-90f4-d05f05a0f2d9" name="Changes" comment="chatgpt-assistant">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot-api-application/src/main/java/com/wdj/chatbot/api/application/job/ChatbotSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-domain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-domain/src/main/java/com/wdj/chatbot/api/domain/ai/service/OpenAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-domain/src/main/java/com/wdj/chatbot/api/domain/ai/service/OpenAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-domain/src/main/java/com/wdj/chatbot/api/domain/zsxq/IZsxqApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-domain/src/main/java/com/wdj/chatbot/api/domain/zsxq/IZsxqApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-domain/src/main/java/com/wdj/chatbot/api/domain/zsxq/service/ZsxqApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-domain/src/main/java/com/wdj/chatbot/api/domain/zsxq/service/ZsxqApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-interfaces/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-interfaces/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-interfaces/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-interfaces/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-interfaces/src/test/java/com/wdj/chatbot/api/test/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-interfaces/src/test/java/com/wdj/chatbot/api/test/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-interfaces/src/test/java/com/wdj/chatbot/api/test/AutoComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-interfaces/src/test/java/com/wdj/chatbot/api/test/AutoComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-interfaces/src/test/java/com/wdj/chatbot/api/test/SpringBootRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-interfaces/src/test/java/com/wdj/chatbot/api/test/SpringBootRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-api-interfaces/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-api-interfaces/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="wdj_zsqx_api_domain" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.10.RELEASE/spring-context-5.2.10.RELEASE.jar!/org/springframework/scheduling/concurrent/ReschedulingRunnable.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.10.RELEASE/spring-context-5.2.10.RELEASE.jar!/org/springframework/scheduling/support/DelegatingErrorHandlingRunnable.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.10.RELEASE/spring-context-5.2.10.RELEASE.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../Java/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dJUzwm8gppcxYImhcN0Z6Te9tg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AutoComment.executor": "Run",
+    "Application.test1.executor": "Run",
+    "Docker.Dockerfile.executor": "Run",
+    "JUnit.ApiTest.executor": "Run",
+    "JUnit.ApiTest.query_unanswered_questions.executor": "Run",
+    "JUnit.AutoComment.autoCommentOnTopic.executor": "Run",
+    "JUnit.AutoComment.executor": "Run",
+    "JUnit.AutoComment.test_chatGPT1.executor": "Run",
+    "JUnit.AutoComment.test_chatGpt.executor": "Run",
+    "JUnit.SpringBootRunTest.test_openAi.executor": "Run",
+    "JUnit.SpringBootRunTest.test_zsxqApi.executor": "Run",
+    "JUnit.SpringBootRunTest.test_zsxqApi1.executor": "Run",
+    "JUnit.test.autoCommentOnTopic.executor": "Run",
+    "JUnit.test.executor": "Run",
+    "Maven.chatbot-api [clean,package].executor": "Run",
+    "Maven.chatbot-api [clean].executor": "Run",
+    "Maven.chatbot-api [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ApiApplication.executor": "Run",
+    "git-widget-placeholder": "<unknown>",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Idea+++/workspace_teach/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea+++\workspace_teach\chatbot-api" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wdj.chatbot.api.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiApplication">
+    <configuration name="ApiTest.query_unanswered_questions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chatbot-api-interfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wdj.chatbot.api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wdj.chatbot.api.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wdj.chatbot.api.test.ApiTest" />
+      <option name="METHOD_NAME" value="query_unanswered_questions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRunTest.test_zsxqApi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chatbot-api-interfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wdj.chatbot.api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wdj.chatbot.api.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wdj.chatbot.api.test.SpringBootRunTest" />
+      <option name="METHOD_NAME" value="test_zsxqApi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRunTest.test_zsxqApi1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chatbot-api-interfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wdj.chatbot.api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wdj.chatbot.api.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wdj.chatbot.api.test.SpringBootRunTest" />
+      <option name="METHOD_NAME" value="test_zsxqApi1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/build.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="powershell.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="chatbot-api-interfaces" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdj.chatbot.api.ApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="chatbot-api/chatbot-api:1.0" />
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.build.sh" />
+        <item itemvalue="JUnit.SpringBootRunTest.test_zsxqApi" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="JUnit.SpringBootRunTest.test_zsxqApi1" />
+        <item itemvalue="JUnit.ApiTest.query_unanswered_questions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c750adf-4b93-4ffc-90f4-d05f05a0f2d9" name="Changes" comment="" />
+      <created>1709725941252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709725941252</updated>
+      <workItem from="1709725942807" duration="1275000" />
+      <workItem from="1709727231708" duration="2060000" />
+      <workItem from="1709729316528" duration="1904000" />
+      <workItem from="1709731271858" duration="678000" />
+      <workItem from="1709731963745" duration="1386000" />
+      <workItem from="1709776507403" duration="6967000" />
+      <workItem from="1709796879751" duration="11931000" />
+      <workItem from="1709815085101" duration="11454000" />
+      <workItem from="1709885113201" duration="13032000" />
+      <workItem from="1709904787026" duration="3048000" />
+      <workItem from="1709951224648" duration="1321000" />
+      <workItem from="1709952560393" duration="30304000" />
+      <workItem from="1710038226470" duration="215000" />
+      <workItem from="1710038462685" duration="4357000" />
+      <workItem from="1710056983818" duration="606000" />
+      <workItem from="1710081185339" duration="1685000" />
+      <workItem from="1710083001626" duration="1153000" />
+      <workItem from="1710084179487" duration="11320000" />
+      <workItem from="1710156291593" duration="7609000" />
+      <workItem from="1710237944336" duration="1576000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交：DDD框架">
+      <option name="closed" value="true" />
+      <created>1709731209806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709731209806</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交：DDD框架">
+      <option name="closed" value="true" />
+      <created>1709731479643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709731479643</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一次提交：DDD框架">
+      <option name="closed" value="true" />
+      <created>1709732016530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709732016530</updated>
+    </task>
+    <task id="LOCAL-00004" summary="网页爬取，爬虫">
+      <option name="closed" value="true" />
+      <created>1709811176327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709811176327</updated>
+    </task>
+    <task id="LOCAL-00005" summary="chatgpt接口">
+      <option name="closed" value="true" />
+      <created>1709980669213</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709980669213</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交：DDD框架" />
+    <MESSAGE value="网页爬取，爬虫" />
+    <MESSAGE value="chatgpt接口" />
+    <MESSAGE value="chatgpt-assistant" />
+    <option name="LAST_COMMIT_MESSAGE" value="chatgpt-assistant" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$USER_HOME$/AppData/Local/Temp/1781a1d6-727b-4f35-b51f-4d93d7fd6c0d_chatbot-api-23_xfg_zsxq_domain.zip.c0d/chatbot-api-23_xfg_zsxq_domain/chatbot-api-domain/src/main/java/cn/bugstack/chatbot/api/domain/zsxq/model/res/RespData.java</url>
+          <line>14</line>
+          <properties field="topics" class="cn.bugstack.chatbot.api.domain.zsxq.model.res.RespData" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chatbot-api-interfaces/src/main/java/com/wdj/chatbot/api/ApiApplication.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chatbot-api-application/src/main/java/com/wdj/chatbot/api/application/job/ChatbotSchedule.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chatbot-api-application/src/main/java/com/wdj/chatbot/api/application/job/ChatbotSchedule.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
